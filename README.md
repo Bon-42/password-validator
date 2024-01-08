@@ -8,7 +8,7 @@ This is a password validation rest service built with Spring Boot. The service i
 
 ## Requirements
 - Java Development Kit (JDK), version 17
-- 
+
 ## Installation and usage
 To use this Password Validator, clone or download the repository to your local machine. Once the download is done, run the following commands from the root folder of the project:
 -> ```./gradlew clean build
